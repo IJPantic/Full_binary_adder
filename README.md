@@ -27,7 +27,7 @@ Napisao Ivan Jonjić Pavin (IJPantic na github-u), 24. listopada, 2026.
 
         Dimenzije plocice:
 
-            Na plocicu se treba nacrtati resetka (Lagano olovkom) dimenzija 25x13 polja, za velicinu stranica kvadrata preporuca se 4mm (Potrebna plocica dimenzija 10x5cm)
+            Na plocicu se treba nacrtati resetku (Lagano olovkom) dimenzija 25x13 polja, za velicinu stranica kvadrata preporuca se 4mm (Potrebna plocica dimenzija 10x5cm)
 
         KiCAD datoteke:
 
